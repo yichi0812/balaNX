@@ -1,0 +1,45 @@
+Adobe Firefly Video Style Selection Options:
+
+MODEL OPTIONS:
+- Adobe Firefly Video (commercially safe)
+- Veo 3.1 (Greater control, physics, realism)
+- Veo 3.1 Fast
+- Runway Gen-4.5 (Controllable Production-Ready Videos)
+- Ray3 (Pro quality realism, physics, controllable)
+- Sora 2 (Realistic video generation with audio)
+- Ray2 (Cinematic controllable video)
+- Pika 2.2 (High-quality video creation)
+- Ray3 HDR (Ultimate professional quality, realism)
+- Veo 2 (Videos with realistic motion)
+
+CAMERA OPTIONS:
+- Shot size: None, Extreme close up, Close up shot, Medium shot, Long shot, Extreme long shot
+- Camera angle: None, Aerial shot, Eye level shot, High angle shot, Low angle shot, Top down shot
+
+MOTION OPTIONS:
+- Camera zoom in
+- Camera zoom out
+- Camera pan left
+- Camera pan right
+- Camera tilt up
+- Camera tilt down
+- Camera static
+- Camera handheld
+
+STYLE OPTIONS (EXPLICIT VISUAL STYLES):
+- 2D
+- 3D
+- Anime
+- Black and white
+- Cinematic
+- Claymation
+- Fantasy
+- Line art
+- Stopmotion
+- Vector art
+
+ADDITIONAL:
+- Transparent background option
+- Reference frames/images upload
+- Composition video upload
+- Motion reference video upload
